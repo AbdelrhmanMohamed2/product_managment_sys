@@ -1,0 +1,30 @@
+{
+  "1": {
+    "product_name": "James Macdonald",
+    "product_price": "32",
+    "product_description": "edit check asdklaskdlaksdlk",
+    "img_path": "6420d5016eb958.69849361.png",
+    "id": 2
+  },
+  "2": {
+    "product_name": "Clio Townsend",
+    "product_price": "555",
+    "product_description": "Id sit nesciunt re",
+    "img_path": "6420e572536f13.58623905.png",
+    "id": 3
+  },
+  "4": {
+    "product_name": "Kenyon Rutledge",
+    "product_price": "200",
+    "product_description": "Duis non sed aut pra",
+    "img_path": "6421b5d7ad5508.03938487.png",
+    "id": 5
+  },
+  "5": {
+    "product_name": "Alexis Payne",
+    "product_price": "555",
+    "product_description": "Mollitia eu quaerat",
+    "img_path": "6421b5e95c3579.72319080.png",
+    "id": 6
+  }
+}

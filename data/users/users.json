@@ -1,0 +1,44 @@
+{
+  "0": {
+    "name": "abdo",
+    "email": "abdo@mail.com",
+    "password": "123456789",
+    "type": "admin",
+    "id": 1
+  },
+  "1": {
+    "name": "hytokasys",
+    "email": "dyqywazi@mailinator.com",
+    "password": "Pa$$w0rd!",
+    "type": "admin",
+    "id": 2
+  },
+  "4": {
+    "name": "test2",
+    "email": "test@mail.com",
+    "password": "123456789",
+    "type": "user",
+    "id": 5
+  },
+  "5": {
+    "name": "wucyhisi",
+    "email": "pabiwehy@mailinator.com",
+    "password": "Pa$$w0rd!",
+    "type": "user",
+    "id": 6
+  },
+  "6": {
+    "name": "gabosyje",
+    "email": "powebowixu@mailinator.com",
+    "password": "Pa$$w0rd!",
+    "type": "admin",
+    "id": 7
+  },
+  "7": {
+    "name": "jigyfeqeb",
+    "email": "fitenu@mailinator.com",
+    "password": "Pa$$w0rd!",
+    "type": "admin",
+    "id": 8
+  }
+}
